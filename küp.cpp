@@ -8,6 +8,6 @@ double ort(int a, int b, int c) {
     x = (a + b + c) / 3.0;
     printf("%lf\n", x);
     
-    return x;
+    return 0;
 }
 
